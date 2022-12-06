@@ -448,12 +448,25 @@ body.dark-theme{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .PIPbutton__text i{
   margin-left: 3px;
   font-size: 20px;
+}
+
+.pip__credit{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pip__credit a{
+  margin-left: 4px;
+  font-size: 20px;
+  font-weight: 600;
+  color: blue;
 }
 
 
