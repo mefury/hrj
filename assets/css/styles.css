@@ -467,6 +467,11 @@ body.dark-theme{
   font-size: 20px;
   font-weight: 600;
   color: blue;
+  transition: .3s;
+}
+
+.pip__credit a:hover{
+  color: var(--first-color);
 }
 
 
